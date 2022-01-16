@@ -8,17 +8,17 @@ export function getAll() {
     return [
         {
             id: 1,
-            text: 'Learn Javascript',
+            text: 'Lmed Javascript',
             completed: false
         },
         {
             id: 2,
-            text: 'Learn React',
-            completed: false
+            text: 'Lmed React',
+            comleted: false
         },
         {
             id: 3,
-            text: 'Build a React App',
+            text: 'Bnu asnas React',
             completed: false
         }
     ]
