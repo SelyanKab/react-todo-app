@@ -4,7 +4,7 @@ import InputWrapper from './InputWrapper';
 export default function Header(props) {
     return (
         <header>
-            <h1>Ahil ara xedmeɣ</h1>
+            <h1>Ahil-inu</h1>
             <InputWrapper {...props}/>
         </header>
     );
